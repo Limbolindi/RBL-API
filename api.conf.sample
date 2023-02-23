@@ -1,0 +1,23 @@
+{
+  "API_LED_PIN": {
+    "led_1": {
+      "R": 0,
+      "G": 0,
+      "B": 0
+    },
+    "led_2": {
+      "R": 0,
+      "G": 0,
+      "B": 0
+    }
+  },
+  "API_PIN": {
+    "Fairy Lights1" : 0,
+    "Fairy Lights2" : 0
+  },
+  "LED_Name": {
+    "NAME": "led_1",
+    "AnotherName": "led_2"
+
+  }
+}
